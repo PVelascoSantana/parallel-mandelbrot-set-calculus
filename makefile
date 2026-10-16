@@ -83,8 +83,7 @@ benchmark: compile
 
 clean_data:
 		rm -rf $(DATA)
-		rm -rf $(PLOT)
-		@echo "[+] Deleted /$(DATA) and /$(PLOT)"
+		@echo "[+] Deleted /$(DATA)"
 
 clean_img:
 		rm -rf $(IMG)

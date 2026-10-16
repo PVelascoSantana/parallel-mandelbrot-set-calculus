@@ -24,9 +24,8 @@ The project also explores the computational cost of generating the Mandelbrot se
 
 ## Technologies used
 
-- C/C++
+- C
 - MPI
-- GCC
 - Make
 
 ## How it works
